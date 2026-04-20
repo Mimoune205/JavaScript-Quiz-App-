@@ -34,7 +34,3 @@ This project contains three simple JavaScript exercises accessible through butto
 * Understand JavaScript functions
 * Practice loops and conditionals
 * Work with user input and output
-
-## ⚠️ Notes
-
-This project uses `prompt()` and `alert()` for simplicity. For a better user experience, these could be replaced with custom UI elements in the future.
