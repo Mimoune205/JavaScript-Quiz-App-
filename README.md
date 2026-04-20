@@ -38,14 +38,3 @@ This project contains three simple JavaScript exercises accessible through butto
 ## ⚠️ Notes
 
 This project uses `prompt()` and `alert()` for simplicity. For a better user experience, these could be replaced with custom UI elements in the future.
-
-## 📌 Future Improvements
-
-* Replace prompts with input fields
-* Add styling (CSS)
-* Improve quiz interface
-* Add score tracking on screen
-
----
-
-Made for learning and practice 🚀
